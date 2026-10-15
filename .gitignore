@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scratch & Export outputs
+antigravity_chat_export_*/
+assets/
+*.png
+*.svg
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
